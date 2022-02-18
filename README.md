@@ -13,7 +13,8 @@ Pero si la prefieres poner por tu cuenta sigue estos pasos:
 2. Copiamos una de las líneas del documento para utilizarla de referencia
 3. Pegaremos la linia debajo de la ultima linia de radio que tenga el documento
 4. Cambiar el numero de **stream_data** por el siguiente que toque.
-5. La linia de la radio sigue esta referencia > stream_data[xx]: "enlace|Nombre|Genero|Idioma|Bitrate|0"
+5. La linia de la radio sigue esta referencia 
+> stream_data[xx]: "enlace|Nombre|Genero|Idioma|Bitrate|0"
 6. Guardamos el documento y ya tendremos la radio creoada.
 
 ## Lista de cambios
